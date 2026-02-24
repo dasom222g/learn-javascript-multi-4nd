@@ -43,10 +43,11 @@ const greeting = (username2) => {
 };
 
 // 함수를 호출
-greeting("임은혜");
-greeting("김완수");
-greeting("김태희");
-greeting("송혜진");
+greeting();
+// greeting("임은혜");
+// greeting("김완수");
+// greeting("김태희");
+// greeting("송혜진");
 
 // 미션: 콘솔에 "Hello world"텍스트 출력하는 함수 정의, 실행
 
